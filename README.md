@@ -4,7 +4,7 @@
 
 **Things i used in this project**
 
-1. Python 3.8
+1. Python 3.7
 2. [Kivymd](https://github.com/kivymd/KivyMD.git) framework which is more elegant and neat looking for developing cross-platform mobile apps
 
 **This app was my own fun way to learn the framework and not a production material**
